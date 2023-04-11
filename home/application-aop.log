@@ -1,0 +1,463 @@
+2023-01-11 12:29:11,801 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting JkApiApplication on drishti-PC with PID 20653 (/media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot/target/classes started by drishti in /media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot)
+2023-01-11 12:29:11,811 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO No active profile set, falling back to default profiles: default
+2023-01-11 12:29:13,690 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2023-01-11 12:29:13,965 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Finished Spring Data repository scanning in 254ms. Found 17 repository interfaces.
+2023-01-11 12:29:14,901 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8f2f2cfa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-01-11 12:29:15,603 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Tomcat initialized with port(s): 8080 (http)
+2023-01-11 12:29:15,629 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-11 12:29:15,648 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting service [Tomcat]
+2023-01-11 12:29:15,649 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+2023-01-11 12:29:15,665 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2023-01-11 12:29:15,883 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing Spring embedded WebApplicationContext
+2023-01-11 12:29:15,884 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Root WebApplicationContext: initialization completed in 3817 ms
+2023-01-11 12:29:16,433 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Starting...
+2023-01-11 12:32:11,884 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting JkApiApplication on drishti-PC with PID 24390 (/media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot/target/classes started by drishti in /media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot)
+2023-01-11 12:32:11,895 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO No active profile set, falling back to default profiles: default
+2023-01-11 12:32:13,158 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2023-01-11 12:32:13,424 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Finished Spring Data repository scanning in 254ms. Found 17 repository interfaces.
+2023-01-11 12:32:14,453 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$63efedc1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-01-11 12:32:15,064 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Tomcat initialized with port(s): 8080 (http)
+2023-01-11 12:32:15,090 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-11 12:32:15,113 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting service [Tomcat]
+2023-01-11 12:32:15,113 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+2023-01-11 12:32:15,132 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2023-01-11 12:32:15,311 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing Spring embedded WebApplicationContext
+2023-01-11 12:32:15,312 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Root WebApplicationContext: initialization completed in 3268 ms
+2023-01-11 12:32:15,742 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Starting...
+2023-01-11 12:32:16,330 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Start completed.
+2023-01-11 12:32:16,519 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-01-11 12:32:16,791 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000412: Hibernate Core {5.3.7.Final}
+2023-01-11 12:32:16,795 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000206: hibernate.properties not found
+2023-01-11 12:32:17,224 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-01-11 12:32:17,585 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-01-11 12:32:18,185 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000182: No default (no-argument) constructor for class: com.jksap.dto.KilnStoppingData (class must be instantiated by Interceptor)
+2023-01-11 12:32:18,189 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000038: Composite-id class does not override equals(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:18,190 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000039: Composite-id class does not override hashCode(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:18,191 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:18,193 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown initiated...
+2023-01-11 12:32:18,196 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown completed.
+2023-01-11 12:32:18,200 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Stopping service [Tomcat]
+2023-01-11 12:32:18,213 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:267)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5367)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 23 common frames omitted
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field static final java.io.ClassCache java.io.ObjectStreamClass$Caches.localDescs accessible: module java.base does not "opens java.io" to unnamed module @5026735c
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2225)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2213)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1586)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1516)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:442)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	... 31 common frames omitted
+2023-01-11 12:32:18,215 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during stop
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during stop
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1018)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 16 common frames omitted
+2023-01-11 12:32:18,228 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-11 12:32:18,230 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1745)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:402)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:377)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	... 16 common frames omitted
+Caused by: org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.hibernate.mapping.RootClass.checkCompositeIdentifier(RootClass.java:293)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:276)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:347)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:466)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:939)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:57)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:390)
+	... 20 common frames omitted
+2023-01-11 12:32:41,120 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting JkApiApplication on drishti-PC with PID 25068 (/media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot/target/classes started by drishti in /media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot)
+2023-01-11 12:32:41,128 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO No active profile set, falling back to default profiles: default
+2023-01-11 12:32:42,324 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2023-01-11 12:32:42,541 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Finished Spring Data repository scanning in 205ms. Found 17 repository interfaces.
+2023-01-11 12:32:43,411 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c381a3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-01-11 12:32:43,989 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Tomcat initialized with port(s): 8080 (http)
+2023-01-11 12:32:44,014 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-11 12:32:44,031 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting service [Tomcat]
+2023-01-11 12:32:44,032 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+2023-01-11 12:32:44,049 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2023-01-11 12:32:44,240 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing Spring embedded WebApplicationContext
+2023-01-11 12:32:44,240 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Root WebApplicationContext: initialization completed in 3002 ms
+2023-01-11 12:32:44,573 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Starting...
+2023-01-11 12:32:45,075 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Start completed.
+2023-01-11 12:32:45,192 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-01-11 12:32:45,324 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000412: Hibernate Core {5.3.7.Final}
+2023-01-11 12:32:45,327 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000206: hibernate.properties not found
+2023-01-11 12:32:45,614 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-01-11 12:32:45,998 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-01-11 12:32:46,506 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000182: No default (no-argument) constructor for class: com.jksap.dto.KilnStoppingData (class must be instantiated by Interceptor)
+2023-01-11 12:32:46,509 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000038: Composite-id class does not override equals(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:46,510 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000039: Composite-id class does not override hashCode(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:46,512 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+2023-01-11 12:32:46,516 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown initiated...
+2023-01-11 12:32:46,527 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown completed.
+2023-01-11 12:32:46,531 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Stopping service [Tomcat]
+2023-01-11 12:32:46,544 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:267)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5367)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 23 common frames omitted
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field static final java.io.ClassCache java.io.ObjectStreamClass$Caches.localDescs accessible: module java.base does not "opens java.io" to unnamed module @5026735c
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2225)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2213)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1586)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1516)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:442)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	... 31 common frames omitted
+2023-01-11 12:32:46,546 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during stop
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during stop
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1018)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 16 common frames omitted
+2023-01-11 12:32:46,556 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-11 12:32:46,559 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1745)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:402)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:377)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	... 16 common frames omitted
+Caused by: org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.hibernate.mapping.RootClass.checkCompositeIdentifier(RootClass.java:293)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:276)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:347)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:466)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:939)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:57)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:390)
+	... 20 common frames omitted
+2023-01-11 12:33:41,516 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting JkApiApplication on drishti-PC with PID 26426 (/media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot/target/classes started by drishti in /media/drishti/D2BE7D54BE7D31D9/Spring_Project/jk_iot)
+2023-01-11 12:33:41,527 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO No active profile set, falling back to default profiles: default
+2023-01-11 12:33:42,842 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2023-01-11 12:33:43,126 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Finished Spring Data repository scanning in 270ms. Found 17 repository interfaces.
+2023-01-11 12:33:44,009 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$52e646d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-01-11 12:33:44,629 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Tomcat initialized with port(s): 8080 (http)
+2023-01-11 12:33:44,661 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-11 12:33:44,689 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting service [Tomcat]
+2023-01-11 12:33:44,689 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+2023-01-11 12:33:44,705 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+2023-01-11 12:33:44,903 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Initializing Spring embedded WebApplicationContext
+2023-01-11 12:33:44,903 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Root WebApplicationContext: initialization completed in 3260 ms
+2023-01-11 12:33:45,289 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Starting...
+2023-01-11 12:33:45,756 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Start completed.
+2023-01-11 12:33:45,871 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-01-11 12:33:46,015 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000412: Hibernate Core {5.3.7.Final}
+2023-01-11 12:33:46,017 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000206: hibernate.properties not found
+2023-01-11 12:33:46,318 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-01-11 12:33:46,621 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-01-11 12:33:47,092 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HHH000182: No default (no-argument) constructor for class: com.jksap.dto.KilnStoppingData (class must be instantiated by Interceptor)
+2023-01-11 12:33:47,099 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000038: Composite-id class does not override equals(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:33:47,100 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN HHH000039: Composite-id class does not override hashCode(): com.jksap.dto.KilnStoppingData
+2023-01-11 12:33:47,102 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+2023-01-11 12:33:47,102 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown initiated...
+2023-01-11 12:33:47,106 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO HikariPool-1 - Shutdown completed.
+2023-01-11 12:33:47,112 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO Stopping service [Tomcat]
+2023-01-11 12:33:47,123 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: Failed to stop component [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]
+	at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:441)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:267)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5367)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 23 common frames omitted
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field static final java.io.ClassCache java.io.ObjectStreamClass$Caches.localDescs accessible: module java.base does not "opens java.io" to unnamed module @11f0a5a1
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearCache(WebappClassLoaderBase.java:2225)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesObjectStreamClassCaches(WebappClassLoaderBase.java:2213)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1586)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1516)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:442)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	... 31 common frames omitted
+2023-01-11 12:33:47,124 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR A child container failed during stop
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during stop
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1010)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:474)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:822)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.startup.Tomcat.stop(Tomcat.java:382)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stopTomcat(TomcatWebServer.java:250)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.stop(TomcatWebServer.java:306)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.stopAndReleaseWebServer(ServletWebServerApplicationContext.java:320)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during stop
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1018)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1448)
+	at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1437)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.stopInternal(ContainerBase.java:1004)
+	... 16 common frames omitted
+2023-01-11 12:33:47,138 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-11 12:33:47,140 {yyyy-MM-dd'T'HH:mm:ss.SSSZ} ERROR Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [com/jksap/dto/clientDBConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1745)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1083)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:853)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.jksap.JkApiApplication.main(JkApiApplication.java:10)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:402)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:377)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	... 16 common frames omitted
+Caused by: org.hibernate.MappingException: Composite-id class must implement Serializable: com.jksap.dto.KilnStoppingData
+	at org.hibernate.mapping.RootClass.checkCompositeIdentifier(RootClass.java:293)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:276)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:347)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:466)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:939)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:57)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:390)
+	... 20 common frames omitted
